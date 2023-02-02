@@ -1,9 +1,9 @@
 ﻿{
-  "id": "testmod",
-  "name": "Test Mod",
-  "version": "0.1.0",
-  "authors": "Author",
-  "description": "Put a neat description here",
+  "id": "sunhat",
+  "name": "Sun Hat",
+  "version": "1.0.0",
+  "authors": "UraniumCarrot126 (ported by Dual)",
+  "description": "Gives slugcats a cute sun hat! Works on everyone except the saint and pups. Comes with free dye.<LINE><LINE>Code at github.com/Dual-Iron/sun-hat",
   "requirements": [],
   "requirements_names": [],
   "checksum_override_version": false

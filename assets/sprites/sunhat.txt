@@ -1,0 +1,376 @@
+{
+	"frames": {
+		"SunHeadA0.png": {
+			"frame": {
+				"x": 0,
+				"y": 118,
+				"w": 32,
+				"h": 18
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 32,
+				"h": 18
+			},
+			"sourceSize": {
+				"w": 32,
+				"h": 18
+			}
+		},
+		"SunHeadA1.png": {
+			"frame": {
+				"x": 32,
+				"y": 118,
+				"w": 32,
+				"h": 19
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 32,
+				"h": 19
+			},
+			"sourceSize": {
+				"w": 32,
+				"h": 19
+			}
+		},
+		"SunHeadA2.png": {
+			"frame": {
+				"x": 32,
+				"y": 137,
+				"w": 32,
+				"h": 19
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 32,
+				"h": 19
+			},
+			"sourceSize": {
+				"w": 32,
+				"h": 19
+			}
+		},
+		"SunHeadA3.png": {
+			"frame": {
+				"x": 0,
+				"y": 156,
+				"w": 32,
+				"h": 20
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 32,
+				"h": 20
+			},
+			"sourceSize": {
+				"w": 32,
+				"h": 20
+			}
+		},
+		"SunHeadA4.png": {
+			"frame": {
+				"x": 32,
+				"y": 156,
+				"w": 32,
+				"h": 20
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 32,
+				"h": 20
+			},
+			"sourceSize": {
+				"w": 32,
+				"h": 20
+			}
+		},
+		"SunHeadA5.png": {
+			"frame": {
+				"x": 0,
+				"y": 176,
+				"w": 32,
+				"h": 20
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 32,
+				"h": 20
+			},
+			"sourceSize": {
+				"w": 32,
+				"h": 20
+			}
+		},
+		"SunHeadA6.png": {
+			"frame": {
+				"x": 32,
+				"y": 176,
+				"w": 32,
+				"h": 20
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 32,
+				"h": 20
+			},
+			"sourceSize": {
+				"w": 32,
+				"h": 20
+			}
+		},
+		"SunHeadA7.png": {
+			"frame": {
+				"x": 39,
+				"y": 32,
+				"w": 20,
+				"h": 32
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 20,
+				"h": 32
+			},
+			"sourceSize": {
+				"w": 20,
+				"h": 32
+			}
+		},
+		"SunHeadA8.png": {
+			"frame": {
+				"x": 38,
+				"y": 0,
+				"w": 19,
+				"h": 32
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 19,
+				"h": 32
+			},
+			"sourceSize": {
+				"w": 19,
+				"h": 32
+			}
+		},
+		"SunHeadA9.png": {
+			"frame": {
+				"x": 0,
+				"y": 32,
+				"w": 19,
+				"h": 32
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 19,
+				"h": 32
+			},
+			"sourceSize": {
+				"w": 19,
+				"h": 32
+			}
+		},
+		"SunHeadA10.png": {
+			"frame": {
+				"x": 19,
+				"y": 32,
+				"w": 20,
+				"h": 32
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 20,
+				"h": 32
+			},
+			"sourceSize": {
+				"w": 20,
+				"h": 32
+			}
+		},
+		"SunHeadA11.png": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 19,
+				"h": 32
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 19,
+				"h": 32
+			},
+			"sourceSize": {
+				"w": 19,
+				"h": 32
+			}
+		},
+		"SunHeadA12.png": {
+			"frame": {
+				"x": 19,
+				"y": 0,
+				"w": 19,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 19,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 19,
+				"h": 28
+			}
+		},
+		"SunHeadA13.png": {
+			"frame": {
+				"x": 0,
+				"y": 64,
+				"w": 24,
+				"h": 23
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 24,
+				"h": 23
+			},
+			"sourceSize": {
+				"w": 24,
+				"h": 23
+			}
+		},
+		"SunHeadA14.png": {
+			"frame": {
+				"x": 24,
+				"y": 64,
+				"w": 29,
+				"h": 21
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 29,
+				"h": 21
+			},
+			"sourceSize": {
+				"w": 29,
+				"h": 21
+			}
+		},
+		"SunHeadA15.png": {
+			"frame": {
+				"x": 0,
+				"y": 137,
+				"w": 32,
+				"h": 19
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 32,
+				"h": 19
+			},
+			"sourceSize": {
+				"w": 32,
+				"h": 19
+			}
+		},
+		"SunHeadA16.png": {
+			"frame": {
+				"x": 0,
+				"y": 87,
+				"w": 31,
+				"h": 31
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 31,
+				"h": 31
+			},
+			"sourceSize": {
+				"w": 31,
+				"h": 31
+			}
+		},
+		"SunHeadA17.png": {
+			"frame": {
+				"x": 31,
+				"y": 87,
+				"w": 31,
+				"h": 31
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 31,
+				"h": 31
+			},
+			"sourceSize": {
+				"w": 31,
+				"h": 31
+			}
+		}
+	},
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "SunHeads.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 64,
+			"h": 196
+		},
+		"scale": "1",
+		"smartupdate": "$TexturePacker:SmartUpdate:04139b994df4a6de4964af59958c8a5f:1b599fee9ba9a877982f71d4b7e55dd0:ca4cc9d7353b9ada2928e6e9b4c6a94f$"
+	}
+}
