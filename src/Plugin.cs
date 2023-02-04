@@ -6,7 +6,7 @@ using System.Security.Permissions;
 
 namespace SunHat;
 
-[BepInPlugin("com.dual-iron.sunhat", "Sun Hat", "1.0.0")]
+[BepInPlugin("sun.hat", "Sun Hat", "1.0.1")]
 sealed class Plugin : BaseUnityPlugin
 {
     FAtlas atlas;
@@ -21,7 +21,7 @@ sealed class Plugin : BaseUnityPlugin
     {
         orig(self);
 
-        atlas = Futile.atlasManager.LoadAtlas("sprites/sunhat");
+        atlas ??= Futile.atlasManager.LoadAtlas("sprites/sunhat");
 
         if (atlas == null) {
             Logger.LogWarning("Sun Hat atlas not found! Reinstall the mod.");
